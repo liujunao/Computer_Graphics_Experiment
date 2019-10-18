@@ -1,5 +1,4 @@
-## 计算机图形学课后作业
- ![](https://img.shields.io/badge/release-v1.0-yellowgreen.svg) ![](https://img.shields.io/badge/platform-windows-brightgreen.svg) ![](https://img.shields.io/badge/build-cmake-blue.svg)
+# 计算机图形学课后作业
 
 具体参考文档： [Computer_Graphics](https://github.com/wanlin405/Computer_Graphics) 
 
@@ -21,4 +20,5 @@
 * 作业一：绘制球体 - `ball` 
 * 作业二：立方体旋转 - `cube` 
 * 作业三：创建摄像机类 - `camera` 
-* 作业四： Phong 光照 - `phong`
+* 作业四： Phong 光照 - `phong` 
+* 作业五：立方体贴图（纹理贴图和天空盒）- `cube-map`
